@@ -1,4 +1,4 @@
-**Spelling Checker**
+**Spell Checker**
 
 Description
 
