@@ -1,4 +1,4 @@
-**📝 Spell Checker**
+***📝 Spell Checker***
 
 ### 📖 Description
 This is a simple spelling checker application built using Python 🐍 and Tkinter 🎨. It utilizes the `pyspellchecker` library 📚 to check for spelling mistakes and provide suggestions for correct spellings.
