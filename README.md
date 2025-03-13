@@ -11,7 +11,6 @@ This is a simple spelling checker application built using Python 🐍 and Tkinte
 
 ### 📌 Requirements
 Before running the application, ensure you have the following dependencies installed:
-```sh
 pip install pyspellchecker
 ```
 
