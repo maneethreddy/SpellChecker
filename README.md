@@ -26,7 +26,7 @@ pip install pyspellchecker
    python spell_checker.py
    ```
 4. 🔤 Enter a word in the text box and click the **"Check"** button.
-5. 📢 The application will display whether the word is correct or suggest possible corrections.
+5. 📢 The application will display whether the word is correct or suggest possible correction.
 
 
 ### 🛠️ Technologies Used
